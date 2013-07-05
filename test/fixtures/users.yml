@@ -9,3 +9,9 @@ simon:
   last_name: "Cooper"
   email: "scooper@rallydev.com"
   profile_name: "SimonBCo"
+
+nigel:
+  first_name: "Nigel"
+  last_name: "Cooper"
+  email: "ncooper@rallydev.com"
+  profile_name: "NigelCo"
