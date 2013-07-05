@@ -3,3 +3,9 @@ adam:
   last_name: "Cooper"
   email: "acooper@rallydev.com"
   profile_name: "AdamBCo"
+
+simon:
+  first_name: "Simon"
+  last_name: "Cooper"
+  email: "scooper@rallydev.com"
+  profile_name: "SimonBCo"

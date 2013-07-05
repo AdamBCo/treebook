@@ -4,3 +4,4 @@
 
 <%= link_to 'Show', @status %> |
 <%= link_to 'Back', statuses_path %>
+<%= link_to "Delete", @status, method: :delete, data: { confirm: "Are you sure your want to delete this status?"} %>
