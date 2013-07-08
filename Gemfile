@@ -10,7 +10,7 @@ gem 'devise'
 gem 'simple_form'
 
 group :test do
-	gem 'shoulda'
+	gem 'shoulda', '3.3.2'
 end
 
 
